@@ -219,3 +219,4 @@ Networks/OSNet
 1.py
 train copy.py
 ablation
+*.npy

@@ -29,6 +29,7 @@ To address the challenges of vehicle counting in real-world applications, we pro
 2. Modify the data set address in `make_npydata.py` to generate the correct data set information
 3. Modify the dataset, client numbers and other options in `config.py`.
 4. After performing the above modifications, you can start the training process by running `python train.py`.
+5. The training code will be released after the acceptance of this paper.
 
 ## Test
 
