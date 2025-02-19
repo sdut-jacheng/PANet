@@ -24,7 +24,6 @@ To address the challenges of vehicle counting in real-world applications, we pro
 ![arch](assets/framework.jpg)
 
 ## Train
-The training code will be released after the acceptance of this paper.
 
 1. Prepare the datasets used in the experiment.
 2. Modify the data set address in `make_npydata.py` to generate the correct dataset information
@@ -59,14 +58,17 @@ The pretrained weights from [HERE](https://1drv.ms/f/s!Al2dMJC6HUgQrJRUCo3Ighr21
 If you find this code or research helpful, please consider citing our paper:
 
 ```BibTeX
-@article{Cheng2024PANet,
-title={Efficient Vehicular Counting via Privacy-aware Aggregation Network},
-author={Cheng, Jing-an and Li, Qilei and Chen Jinyong and Gao, Mingliang},
-journal={under_review}
-year={2024},
+@article{cheng2025efficient,
+  title={Efficient vehicular counting via privacy-aware aggregation network},
+  author={Cheng, Jing-an and Li, Qilei and Chen, Jinyong and Gao, Mingliang},
+  journal={Measurement Science and Technology},
+  volume={36},
+  number={2},
+  pages={026213},
+  year={2025},
+  publisher={IOP Publishing}
 }
 ```
-Please note that this citation is a placeholder and will be updated with the actual citation information once the paper is accepted and published. We kindly request you to revisit this section and replace the placeholder with the correct citation detail.
 
 ## Acknowledgements
 
